@@ -1,6 +1,6 @@
 = ActiveMerchant CHANGELOG
 
-== Version 2.0.0 (June 2, 2014)
+== Version 1.44.0 (June 3, 2014)
 
 * [POSSIBLE BREAKAGE] Remove dependency on active_utils Validateable [ntalbott]
 * [POSSIBLE BREAKAGE] Stripe: Allow for updating of stored card [speric]
